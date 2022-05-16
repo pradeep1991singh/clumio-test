@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Select /> Snapshot 1`] = `
+<DocumentFragment>
+  <label
+    class="block dark:bg-gray-900 dark:text-gray-500"
+  >
+    label
+  </label>
+  <select
+    class="block dark:bg-gray-900 dark:text-white border border-gray-400 hover:border-gray-500 px-4 py-2 rounded shadow focus:outline-none focus:shadow-outline w-56"
+    name="name"
+  >
+    <option>
+      option1
+    </option>
+    <option>
+      option2
+    </option>
+  </select>
+</DocumentFragment>
+`;

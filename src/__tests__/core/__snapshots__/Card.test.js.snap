@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> Snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="max-w-sm overflow-hidden"
+  >
+    <img
+      alt="Card"
+      class="w-full"
+      src="example.com"
+    />
+    <div
+      class="px-6 py-4"
+    >
+      <div
+        class="font-bold text-xl mb-2 text-blue-500"
+      >
+        title
+      </div>
+      <p
+        class="text-gray-700 text-base dark:text-gray-500"
+      >
+        genre1genre2, 2022
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Theme /> Snapshot 1`] = `
+<DocumentFragment>
+  <main
+    class="bg-white dark:bg-gray-900 transition-all"
+  >
+    <span>
+      test children
+    </span>
+  </main>
+</DocumentFragment>
+`;

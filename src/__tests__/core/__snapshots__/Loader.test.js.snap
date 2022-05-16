@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Loader /> Snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="bg-indigo-500 ..."
+    disabled=""
+    type="button"
+  >
+    <svg
+      class="animate-spin h-5 w-5 mr-3 ..."
+      viewBox="0 0 24 24"
+    />
+    Loading...
+  </button>
+</DocumentFragment>
+`;

@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ThemeButton /> Snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="transition duration-500 ease-in-out py-2"
+  >
+    <button
+      class="dark:text-gray-500 cursor-pointer rounded px-3 py-1 border"
+    >
+      Switch to dark
+    </button>
+  </div>
+</DocumentFragment>
+`;

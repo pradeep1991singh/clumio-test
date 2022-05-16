@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StarRating /> Snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="star-rating"
+  >
+    <button
+      class="dark:text-gray-500"
+      type="button"
+    >
+      <span
+        class="bg-transparent border-none outline-one cursor-pointer"
+      >
+        ★
+      </span>
+    </button>
+    <button
+      class="dark:text-gray-500"
+      type="button"
+    >
+      <span
+        class="bg-transparent border-none outline-one cursor-pointer"
+      >
+        ★
+      </span>
+    </button>
+    <button
+      class="dark:text-gray-500"
+      type="button"
+    >
+      <span
+        class="bg-transparent border-none outline-one cursor-pointer"
+      >
+        ★
+      </span>
+    </button>
+    <button
+      class="dark:text-gray-500"
+      type="button"
+    >
+      <span
+        class="bg-transparent border-none outline-one cursor-pointer"
+      >
+        ★
+      </span>
+    </button>
+    <button
+      class="dark:text-gray-500"
+      type="button"
+    >
+      <span
+        class="bg-transparent border-none outline-one cursor-pointer"
+      >
+        ★
+      </span>
+    </button>
+  </div>
+</DocumentFragment>
+`;
